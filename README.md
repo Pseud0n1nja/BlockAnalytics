@@ -14,6 +14,7 @@ Blockchain technology has transformed the way we think about data transparency a
 - **Crypto Research**: Conduct in-depth research on various cryptocurrencies, including transaction volumes, wallet activities, and market trends.
 - **Exploratory Data Analysis**: Use exploratory data analysis techniques to uncover patterns and insights in blockchain data.
 - **Integration with Popular Tools**: Seamlessly integrate with Bitquery, Glassnode, Flipside, Dune Analytics, and other blockchain analytics tools.
+- **SQL Queries**: Utilize SQL files for complex queries and data extraction from databases.
 
 ### Example Scripts
 
