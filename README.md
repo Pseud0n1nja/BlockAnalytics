@@ -1,6 +1,6 @@
 # BlockAnalytics
 
-Welcome to **BlockAnalytics**! This repository is dedicated to performing on-chain and crypto research and exploratory analysis using a variety of blockchain analysis tools. 
+This repository is dedicated to performing on-chain and crypto research and exploratory analysis using a variety of blockchain analysis tools. 
 
 
 
