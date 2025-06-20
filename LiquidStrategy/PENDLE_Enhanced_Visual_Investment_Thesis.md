@@ -661,14 +661,3 @@ timeline
 ---
 
 **Investment Committee Recommendation:** APPROVE position initiation immediately given exceptional fundamentals, dominant market position, significant undervaluation, and strong risk-adjusted return profile supported by comprehensive quantitative analysis.
-
----
-
-*This enhanced visual analysis provides institutional investors with comprehensive charts, graphs, and data visualizations to support the PENDLE investment thesis. All metrics are based on publicly available data as of June 2025 and should be updated regularly for ongoing investment decisions.*
-
-**Prepared by:** Senior DeFi Research Analyst  
-**Date:** June 20, 2025  
-**Next Review:** August 20, 2025  
-**Distribution:** Investment Committee, Portfolio Management Team
-
----
