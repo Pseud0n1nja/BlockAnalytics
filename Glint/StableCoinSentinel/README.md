@@ -4,8 +4,7 @@
   - `supply_trends.sql` – Tracks circulating supply changes over time.  
   - `velocity_ratios.sql` – Computes velocity (turnover) as volume / circulating supply.  
   - `swap_slippage.sql` – Estimates average slippage on $1M swaps across major AMMs.
-  - 'StableCoinSankey.sql' - Generates the classigfication of the types of Stablecoins, can be used to build Sankey Chart
-  - 
+  - `StableCoinSankey.sql` - Generates the classigfication of the types of Stablecoins, can be used to build Sankey Chart
 
 ---
 
